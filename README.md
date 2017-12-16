@@ -1,10 +1,10 @@
-# Chia
-Chia Language that a script designed for use on electronic devices for English, Chinese, Japanese and other languages.<br>
+# Chai
+Chai Language that a script designed for use on electronic devices for English, Chinese, Japanese and otheuages.<br>
 I have been updated script for English, Chinese, Japanese and Korean languages samples for help learning it <br>
 Currently, it’s researching, improving and developing...<br>
-The detail information to connect [wiki](https://github.com/caixnet/Chia/wiki) https://github.com/caixnet/Chia/wiki <br>
+The detail information to connect [wiki](https://github.com/caixnet/Chai/wiki) https://github.com/caixnet/Chai/wiki <br>
 
-## 0. Chia Number and Hand principle (数字和手型原理/수자와손 원리）
+## 0. Chai Number and Hand principle (数字和手型原理/수자와손 원리）
 **1=i, 2=e, 3=a, 4=o, 5=u**
 <table border="1" align="center">
     <tr>
@@ -32,7 +32,7 @@ The detail information to connect [wiki](https://github.com/caixnet/Chia/wiki) h
     </tr>
 </table>
 
-## 1. Chia Number base （数字发音元音/수자표기 원음）
+## 1. Chai Number base （数字发音元音/수자표기 원음）
 
 |  0   |  1   |  2   |   3   |  4   |  5   |      |
 | :--: | :--: | :--: | :---: | :--: | :--: | ---- |
@@ -41,7 +41,7 @@ The detail information to connect [wiki](https://github.com/caixnet/Chia/wiki) h
 | Zero | One  | Two  | Three | Four | Five |      |
 
 
-## 2. Chia Number combine （数字结合辅音/수자표기 자음）
+## 2. Chai Number combine （数字结合辅音/수자표기 자음）
 
 |  0   |  1   |  2   |   3   |  4   |  5   |  6   |   7   |   8   |  9   |  10  |
 | :--: | :--: | :--: | :---: | :--: | :--: | :--: | :---: | :---: | :--: | :--: |
@@ -49,7 +49,7 @@ The detail information to connect [wiki](https://github.com/caixnet/Chia/wiki) h
 |  ㄹ   |  ㅇ   |  ㄴ   |   ㅊ   |  ㅋ   |  ㅌ   |  ㅂ   |   ㄱ   |   ㅆ   |  ㅍ   |  ㄹ   |
 | Zero | One  | Two  | Three | Four | Five | Six  | Seven | Eight | Nine | Ten  |
 
-## 3. Chia Number Unit (数字单位/수자 단위)
+## 3. Chai Number Unit (数字单位/수자 단위)
 | 10<sup>1</sup> | 10<sup>2</sup> | 10<sup>3</sup> | 10<sup>4</sup> | 10<sup>8</sup> | 10<sup>12</sup> | 10<sup>16</sup> | 10<sup>20</sup> |
 | :----: | :----: | :----: | :-----: | :-----: | :------: | :------: | :------: |
 |  ru | re  |  ra  |   ro  |  roro/yir  |  royir/yer | royer/yar  |  royar/yor  |
@@ -58,7 +58,7 @@ The detail information to connect [wiki](https://github.com/caixnet/Chia/wiki) h
 | 십 | 백 | 천 | 만 | 억 | 조 | 경 |핵 |
 |  ten | hundred  | thousand | ten thousand | one hundred million  |  one trillion |       |        |
 
-## Chia Numbers(数字表示和发音/수자표기와 발음)
+## Chai Numbers(数字表示和发音/수자표기와 발음)
 | Zero |       One       |       Two       |      Three      |      Four       |       Five       |      |
 | :--: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------: | ---- |
 |  0   |    1   |   2   |    3   |   4    |   5  |      |
@@ -133,4 +133,6 @@ The detail information to connect [wiki](https://github.com/caixnet/Chia/wiki) h
 |  _   | 10<sup>10</sup> | 10<sup>11</sup> | 10<sup>12</sup> | 10<sup>13</sup> | 10<sup>14</sup>  |      |
 |  _   | yi-re-yir/reyir | yi-ra-yir/rayir | yi-ro-yir/royir/yer | yi-ru-yer/ruyer| yi-re-yer/reyer | |
 |  _   | 이러일/러일 |이라일/라일|이로일/로일/얼 | 이루얼/루얼  | 이러얼/러얼|
+
+
 
